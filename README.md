@@ -39,7 +39,7 @@
 - [Email](mailto:ramaro@internet.ru): ramaro@internet.ru
 - [Telegram](https://t.me/imbroux)
 - [Whatsapp](https://api.whatsapp.com/send?phone=79388945877)
-- [Phone](tel:+7(938)894-58-77)
+- <a href="tel:+79388945877">Phone: +7(938) 894-58-77</a>
 
 ## 📈 GitHub Stats
 
