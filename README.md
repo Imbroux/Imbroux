@@ -36,8 +36,10 @@
 
 ## 📬 Contact Me
 
-- [Email](mailto:ramaro@internet.ru)
-- [Telegram](https://t.me/imbroux)
+- [Email](mailto:ramaro@internet.ru):ramaro@internet.ru
+- [Telegram](https://t.me/imbroux):https://t.me/imbroux
+- [Whatsapp](https://api.whatsapp.com/send?phone=+79388945877)
+- [Phone](tel:+79388945877) 
 
 ## 📈 GitHub Stats
 
